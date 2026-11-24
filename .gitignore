@@ -1,0 +1,27 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.idb
+
+# Saved neural network weights
+*.bin
+
+# Visual Studio / IDE folders
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+build/
+out/
+
+# Temporary / OS files
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
